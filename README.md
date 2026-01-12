@@ -56,8 +56,8 @@ Sou apaixonado por tecnologia e pelo universo da programação, sempre buscando 
 
 <p align="center">
   <a href="https://github.com/wellingtonbarbosadev">
-    <img height="180em" src="https://github-stats-three-rho.vercel.app/api?username=wellingtonbarbosadev&show_icons=true&theme=tokyonight&include_all_commits=false&locale=pt-br"/>
-    <img height="180em" src="https://github-stats-three-rho.vercel.app/api/top-langs/?username=wellingtonbarbosadev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&exclude_repo=CREATOR3.0v2,projeto-zingen,CreatorV2,backup_creator,bot_emu"/>
+    <img height="180em" src="https://github-stats-three-rho.vercel.app/api?username=wellingtonbarbosadev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&custom_title=Estatísticas"/>
+    <img height="180em" src="https://github-stats-three-rho.vercel.app/api/top-langs/?username=wellingtonbarbosadev&theme=tokyonight&layout=compact&custom_title=Tecnologias&exclude_langs=shell&langs_count=9&exclude_repo=CREATOR3.0v2,projeto-zingen,CreatorV2,backup_creator,bot_emu"/>
   </a>
 </p>
 
