@@ -55,17 +55,10 @@ Sou apaixonado por tecnologia e pelo universo da programação, sempre buscando 
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-stats-three-rho.vercel.app/api?username=wellingtonbarbosadev&show_icons=true&theme=tokyonight&include_all_commits=false&locale=pt-br" 
-  />
-  <img 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-stats-three-rho.vercel.app/api/top-langs/?username=wellingtonbarbosadev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&exclude_repo=CREATOR3.0v2,projeto-zingen,CreatorV2,backup_creator,bot_emu" 
-  />
+  <a href="https://github.com/wellingtonbarbosadev">
+    <img height="180em" src="https://github-stats-three-rho.vercel.app/api?username=wellingtonbarbosadev&show_icons=true&theme=tokyonight&include_all_commits=false&locale=pt-br"/>
+    <img height="180em" src="https://github-stats-three-rho.vercel.app/api/top-langs/?username=wellingtonbarbosadev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&exclude_repo=CREATOR3.0v2,projeto-zingen,CreatorV2,backup_creator,bot_emu"/>
+  </a>
 </p>
 
 ---
