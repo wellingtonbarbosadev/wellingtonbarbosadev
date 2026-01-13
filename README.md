@@ -28,7 +28,7 @@ const wellington = {
     formação: "Engenharia de Software - Universidade Veiga de Almeida (UVA)",
     cargo: "Desenvolvedor FullStack",
     código: ["Java", "JavaScript", "Python", "HTML", "CSS"],
-    frameworks: ["Spring Boot", "Node.js"],
+    frameworks: ["Spring Boot", "Express.js"],
     desafioAtual: "Criar soluções inovadoras e eficientes",
     hobbies: ["Programação", "Aprender novas tecnologias", "Resolver problemas"]
 };
