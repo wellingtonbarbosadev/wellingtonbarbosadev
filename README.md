@@ -46,7 +46,7 @@ Sou apaixonado por tecnologia e pelo universo da programação, sempre buscando 
 [![My Languages](https://skillicons.dev/icons?i=html,css,js,java,python)](https://skillicons.dev)
 
 ### Frameworks & Ferramentas
-[![My Tools](https://skillicons.dev/icons?i=spring,nodejs,git,github,vscode,idea)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=spring,expressjs,nodejs,git,github,vscode,idea)](https://skillicons.dev)
 
 </div>
 
