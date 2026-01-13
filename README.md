@@ -25,7 +25,7 @@ const wellington = {
     nome: "Wellington Barbosa",
     idade: 20,
     localização: "Rio de Janeiro, Brasil",
-    formação: "Engenharia de Software - UVA",
+    formação: "Engenharia de Software - Universidade Veiga de Almeida (UVA)",
     cargo: "Desenvolvedor FullStack",
     código: ["Java", "JavaScript", "Python", "HTML", "CSS"],
     frameworks: ["Spring Boot", "Node.js"],
